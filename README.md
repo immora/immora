@@ -1,4 +1,9 @@
 ### Hi there 👋
+- :house: Currently working on my Github Page and Capricode's projects
+- :seedling: Currently learning accessibility best practices 
+- 💬 Ask me about mobile apps
+
+
 
 <!--
 **immora/immora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- :thought_balloon: 
 -->
